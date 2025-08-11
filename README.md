@@ -57,16 +57,16 @@ El objetivo es que la empresa pueda **anticiparse al problema del churn**, ident
 ## 🚀 Ejecución del Proyecto
 
 1. **Clonar el repositorio**
-```bash
+
 git clone https://github.com/usuario/telecom-x-churn.git
 cd telecom-x-churn
 
 2. **Instalar dependencias**
-```bash
+
 pip install -r requirements.txt
 
 3. **Ejecutar analisis y modelos**
-```bash
+
 jupyter notebook notebooks/01_preprocesamiento.ipynb
 jupyter notebook notebooks/02_modelado.ipynb
 
