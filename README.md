@@ -62,11 +62,11 @@ git clone https://github.com/usuario/telecom-x-churn.git
 cd telecom-x-churn
 
 2. **Instalar dependencias**
-
+```bash
 pip install -r requirements.txt
 
 3. **Ejecutar analisis y modelos**
-
+```bash
 jupyter notebook notebooks/01_preprocesamiento.ipynb
 jupyter notebook notebooks/02_modelado.ipynb
 
